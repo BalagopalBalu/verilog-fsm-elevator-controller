@@ -1,0 +1,6 @@
+vlib work
+vlog elevator_controller.v
+vlog tb_elevator_controller.v
+vsim work.tb_elevator_controller
+add wave -r *
+run -all
