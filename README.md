@@ -51,11 +51,11 @@ The testbench generates a 10 ns clock and tests different floor requests includi
 
 ## 📊 Simulation Waveform
 
-![Simulation Waveform](elevator_waveform.png)
+[View Simulation Waveform](./reference_waveform.jpg)
 
 ## 🖥️ RTL Schematic
 
-![RTL Schematic](rtl_schematic.png)
+[View RTL Architecture](./conceptual_rtl_architecture.jpg)
 
 ## 🎓 Internship
 
